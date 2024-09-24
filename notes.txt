@@ -1,0 +1,24 @@
+1. SpeechRecognition
+Purpose: Allows your program to recognize and convert spoken language into text.
+Key Features:
+Supports various speech recognition engines (like Google Web Speech API).
+Handles microphone input and audio files.
+Useful for creating voice-controlled applications or transcribing audio.
+2. pyttsx3
+Purpose: A text-to-speech conversion library that works offline.
+Key Features:
+Can convert text to speech using different speech engines.
+Allows customization of voice properties (rate, volume, voice type).
+Ideal for applications requiring auditory output, like virtual assistants.
+3. wikipedia-api
+Purpose: A simple interface to access Wikipedia content programmatically.
+Key Features:
+Fetches summaries, content, and metadata of Wikipedia pages.
+Supports multiple languages.
+Great for applications that need quick access to factual information.
+4. pywhatkit
+Purpose: A versatile library for automating tasks such as sending WhatsApp messages.
+Key Features:
+Sends messages via WhatsApp Web.
+Can perform Google searches, play YouTube videos, and even generate images.
+Useful for automation and simple bot functionalities.
